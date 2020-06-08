@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PaooGame:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b4d1b6c-2bb0-42b2-8947-44a31ca745bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>head2</find>
+      <find>head</find>
+      <find>initALL</find>
+      <find>bla</find>
+      <find>left</find>
+      <find>ok</find>
+      <find>Blue(</find>
+      <find>bluehead</find>
+      <find>blueturbo</find>
+      <find>bluetline</find>
+      <find>dead</find>
+      <find>RedImage</find>
+      <find>redturbo</find>
+      <find>[18][8]</find>
+      <find>map.level[</find>
+      <find>map.level</find>
+      <find>dyb</find>
+      <find>System.out.println</find>
+      <find>running</find>
+      <find>insert</find>
+      <find>here</find>
+      <find>Player &quot; + winner + &quot;</find>
+      <find>,0);&quot;;</find>
+      <find>,&quot;+mapnr+&quot;);&quot;;</find>
+      <find>PLAYER_2_COLOR,MAP)</find>
+      <find>panel.bwins,panel.rwins</find>
+      <find>draw</find>
+      <find>listener</find>
+      <find>move</find>
+      <find>turbo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>6}</replace>
+      <replace>5}</replace>
+      <replace>4}</replace>
+      <replace>.png</replace>
+      <replace>dxr</replace>
+      <replace>dyr</replace>
+      <replace>redl</replace>
+      <replace>bluel</replace>
+      <replace>rL</replace>
+      <replace>bL</replace>
+      <replace>xs</replace>
+      <replace>ys</replace>
+      <replace>xbs</replace>
+      <replace>itemsBlue</replace>
+      <replace>itemsBlue.</replace>
+      <replace>backgn</replace>
+      <replace>redhead</replace>
+      <replace>redtline</replace>
+      <replace>// System.out.println</replace>
+      <replace>Draw</replace>
+      <replace>,mapnr);&quot;;</replace>
+      <replace>,&quot;+mapnr+&quot;);&quot;;</replace>
+      <replace>,&quot;+mapnr+&quot;,&quot;+p1wins+&quot;,&quot;+p2wins+&quot;);&quot;;</replace>
+      <replace>PLAYER_2_COLOR,MAP,PLAYER_1_WINS,PLAYER_2_WINS)</replace>
+      <replace>panel.rwins,panel.bwins</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1bB03E0SFPeak8uvvjFMAoBAWW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559282860831" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sqlite-jdbc-3.7.2.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paoo.Main" />
+      <module name="PaooGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4d1b6c-2bb0-42b2-8947-44a31ca745bd" name="Default Changelist" comment="" />
+      <created>1554654548649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554654548649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1588090038159">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1048@0.0.1920.1048" timestamp="1588090038159" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1591643765084">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1591643765084" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1591643765084">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1591643765084" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1591643765084">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1591643765084" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1591643765084">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1591643765084" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1588090217481">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1588090217481" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1588090217481">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1048@0.0.1920.1048" timestamp="1588090217481" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1588090217481">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1048@0.0.1920.1048" timestamp="1588090217481" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1588090217481">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1048@0.0.1920.1048" timestamp="1588090217481" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="panel.colorp1" language="JAVA" />
+        <watch expression="panel.colorp2" language="JAVA" />
+        <watch expression="theView.colorp2" language="JAVA" />
+        <watch expression="panel.level" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>panel.level</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>panel.colorp1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>colorp2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
