@@ -9,6 +9,7 @@ public class DataBase {
     Statement state;
     public String sql;
     public int count=0;
+    private Boolean exists=false;
     public DataBase(Connection con, Statement state)
     {
         this.con=con;
@@ -31,8 +32,10 @@ public class DataBase {
             state.close(); con.close();
         } catch ( Exception e )
         { System.err.println( e.getClass().getName() + ": " + e.getMessage() );
-        System.exit(0); }
-        System.out.println("Table created successfully");
+         exists=true;
+         }
+        if(!exists)
+            System.out.println("Table created successfully");
     }
     public void InsertEverywhere(int round,int winner,int color1, int color2, int mapnr, int firstgame,int p1wins, int p2wins) {
         try {
