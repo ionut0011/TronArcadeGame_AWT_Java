@@ -24,7 +24,7 @@ public class Main {
         theView.MainMenu();
         theView.setVisible(true);
         DataBase data = new DataBase(con,state);
-        //data.newDatabase();
+        data.newDatabase();
 
         while (!runningthegame) {
            // System.out.println("ajung 1");
